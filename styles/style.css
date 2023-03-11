@@ -91,9 +91,8 @@ footer {
     /* Bonus Challenge #2 - vertically align the text without using flexbox - + 1 mark/ */
 
     main section {
-        display: table;
-        width: 100%;
-        height: 100vh;
+        height: 30vw;
+        text-align: center;
+        line-height: 30vw; 
     }
-
-
+    
